@@ -8,7 +8,7 @@ const colecionador = {
   },
  }
 
- 
+ console.log(colecionador);
 
  for(i = 0; i < 4; i++) {
   colecionador.adicionarTipo("tipocolecao","HQ"+i)
